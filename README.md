@@ -10,8 +10,10 @@ The files are named from the oldest to the newest version as 0-1-2. 2 being the 
 There is a injector included, which you can use to inject.
 
 # Building
-Each cheat version has it's solution prepared to build. You need to build the project by yourself. There should be no compile errors if you use c++20, v142 toolset and windows SDK 10.0. NOTE: minhook was updated for Visual Studio 2022
+Each cheat version has it's solution prepared to build. You need to build the project by yourself. There should be no compile errors if you use c++20, v142 toolset and windows SDK 10.0.
 Loaders aren't supposed to be compiled, I didn't even test them.
+
+NOTE: MinHook was updated for building with Visual Studio 2022.
 
 # CHEAT 0
 ![alt text](https://i.imgur.com/Xfnoyqt.png)
