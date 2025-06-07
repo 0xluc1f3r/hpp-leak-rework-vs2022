@@ -1,4 +1,4 @@
-# hpp-leak-rework-vs-2022
+# hpp-leak-rework-vs2022
 A rework of the three versions of leaked hpp cheats for Counter-Strike 1.6.
 
 # Three version of the cheats
